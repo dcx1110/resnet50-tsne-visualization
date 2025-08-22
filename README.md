@@ -35,10 +35,6 @@ resnet50-tsne-visualization/
 │   └── sample_results/        # Sample visualization results
 │       └── tsne_cifar10.jpg   # Example t-SNE visualization
 │
-├── notebooks/                  # Jupyter notebooks
-│   ├── demo.ipynb             # Interactive demo
-│   └── analysis.ipynb         # Detailed analysis notebook
-│
 └── scripts/                    # Utility scripts
     ├── download_pretrained.py  # Download pre-trained weights
     └── prepare_data.py         # Data preparation script
@@ -60,15 +56,10 @@ resnet50-tsne-visualization/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/resnet50-tsne-visualization.git
+git clone https://github.com/dcx1110/resnet50-tsne-visualization.git
 cd resnet50-tsne-visualization
 ```
 
-2. **Create a virtual environment** (recommended)
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
 
 3. **Install dependencies**
 ```bash
