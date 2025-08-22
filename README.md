@@ -10,6 +10,32 @@ Extract features from pre-trained ResNet50 and visualize using t-SNE dimensional
 - Support for CIFAR-10 dataset
 - Customizable parameters
 
+
+resnet50-tsne-visualization/
+│
+├── README.md                 # 项目说明
+├── requirements.txt          # 依赖包列表
+├── LICENSE                   # 许可证
+├── .gitignore               # 忽略文件配置
+│
+├── src/                     # 源代码目录
+│   ├── feature_extractor.py # 主要代码
+│   ├── model.py            # ResNet50模型定义
+│   └── utils.py            # 工具函数
+│
+├── models/                  # 预训练模型
+│   └── .gitkeep            # 空文件，保持文件夹
+│
+├── data/                    # 数据集目录
+│   └── .gitkeep
+│
+├── results/                 # 结果图片
+│   └── tsne_visualization.jpg
+│
+└── notebooks/              # Jupyter notebooks（可选）
+    └── demo.ipynb
+
+
 ## Installation
 ```bash
 git clone https://github.com/yourusername/resnet50-tsne-visualization.git
