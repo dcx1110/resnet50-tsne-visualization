@@ -236,12 +236,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - t-SNE algorithm from [Visualizing Data using t-SNE](https://www.jmlr.org/papers/v9/vandermaaten08a.html)
 - CIFAR-10 dataset from [Learning Multiple Layers of Features from Tiny Images](https://www.cs.toronto.edu/~kriz/cifar.html)
 
-## 📧 Contact
-
-- Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-- Email - your.email@example.com
-- Project Link: [https://github.com/yourusername/resnet50-tsne-visualization](https://github.com/yourusername/resnet50-tsne-visualization)
-
 ## 🌟 Star History
 
 If you find this project useful, please consider giving it a star ⭐️
